@@ -1,0 +1,368 @@
+nav {
+    display: block;
+    height: 70px;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: #F9f9f9;
+}
+
+.centernav {
+    margin-right: 30px;
+}
+
+.centergroup {
+    width: 500px;
+}
+
+.navbar-brand {
+    margin-left: 175px;
+}
+
+.subscribebutton {
+    letter-spacing: .65px;
+    margin-right: 225px;
+}
+
+.navbar.bg-white {
+    font-weight: bold;
+    filter: drop-shadow(0px 10px 4px #F9f9f9);
+}
+
+.block0 {
+    border: 1px solid #e2e8f0;
+    max-width: 700px;
+    margin: auto;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 20px;
+}
+
+.block0title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    border: 0px solid;
+    margin-left: 15px;
+}
+
+.block0subtitle {
+    font-size: .9rem;
+    border: 0px solid;
+    margin-left: 15px;
+}
+
+.block1 {
+    border: 1px solid #e2e8f0;
+    width: 100%;
+    max-width: 670px;
+    padding: 15px 15px;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 14px;
+}
+
+h3 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+.blockquote-footer {
+    font-style: italic;
+    font-size: 16px;
+}
+
+.date {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.block1title {
+    text-align: center;
+}
+
+.markets {
+    border: 1px solid #e2e8f0;
+    width: 100%;
+    max-width: 670px;
+    padding: 15px 15px;
+    border-radius: 15px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    margin: auto;
+    margin-top: 8px;
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.downarrow {
+    width: 0;
+    height: 0;
+    border: 7.5px solid transparent;
+    border-bottom: 0;
+    border-top: 15px solid red;
+    margin-top: 18.5px;
+    margin-left: 17px;
+}
+
+.uparrow {
+    width: 0;
+    height: 0;
+    border: 7.5px solid transparent;
+    border-top: 0;
+    border-bottom: 15px solid limegreen;
+    margin-top: 18.5px;
+    margin-left: 17px;
+}
+
+.stockname {
+    margin-left: 29px;
+    border: 0px solid;
+    width: 215px;
+
+}
+
+.amount {
+    border: 0px solid;
+    width: 227px;
+}
+
+.nasdaq {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+
+.nelement.nasdaqp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #FEB2B2;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.nelement {
+    display: inline-block;
+}
+
+.sp {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+.selement {
+    display: inline-block;
+}
+
+.selement.spp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #FEB2B2;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.dow {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+.delement.dowp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #FEB2B2;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.delement {
+    display: inline-block;
+}
+
+.tenyear {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+.telement.tenyearp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #C6F6D5;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.telement {
+    display: inline-block;
+}
+
+.bitcoin {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+.belement.bitcoinp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #FEB2B2;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.belement {
+    display: inline-block;
+}
+
+.randomstock {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    width: 100%;
+    max-width: 670px;
+    padding: 0px 15px;
+    margin: auto;
+    margin-top: 0px;
+    font-weight: bold;
+    height: 52px;
+}
+
+.relement.randomstockp {
+    border: 0px solid;
+    font-size: 16px;
+    background-color: #C6F6D5;
+    line-height: 1em;
+    width: 93.52px;
+    height: 36px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.75);
+    float: inline-end;
+    margin-top: 7.5px;
+}
+
+.relement {
+    display: inline-block;
+}
+
+.marketsbottom {
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    max-width: 670px;
+    margin: auto;
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+#marketsasterisk {
+    font-size: .8em;
+    text-align: center;
+}
+
+.srpromo {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    /* height is temporary */
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.togetherwith {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.promotitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+}
+
+.srpic {
+    max-width: 670px;
+}
+
+.srtext {
+    padding-left: 15px;
+}
