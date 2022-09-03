@@ -56,6 +56,15 @@ body {
     margin-left: 15px;
 }
 
+.together {
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.logo {
+    margin-top: 40px;
+}
+
 .block1 {
     border: 1px solid #e2e8f0;
     width: 100%;
@@ -339,7 +348,6 @@ h3 {
     border: 1px solid #e2e8f0;
     max-width: 670px;
     height: auto;
-    /* height is temporary */
     margin: auto;
     margin-top: 8px;
     border-radius: 15px;
@@ -365,4 +373,146 @@ h3 {
 
 .srtext {
     padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
+.government {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.govtitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.govsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.govpic {
+    width: 668px;
+}
+
+.govtext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
+.dating {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.datingtitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.datingsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.datingpic {
+    width: 668px;
+}
+
+.datingtext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
+.techtherapy {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.therapytitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.therapysubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.therapypic {
+    width: 668px;
+}
+
+.therapytext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
+.fromthecrew {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.crewtitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.crewsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.crewpic {
+    width: 668px;
+}
+
+.crewtext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
 }
