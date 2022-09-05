@@ -412,6 +412,41 @@ h3 {
     margin-bottom: 16px;
 }
 
+.world {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.worldtitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.worldsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.worldpic {
+    width: 668px;
+}
+
+.worldtext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
 .dating {
     border: 1px solid #e2e8f0;
     max-width: 670px;
@@ -440,11 +475,24 @@ h3 {
     width: 668px;
 }
 
+.datingpictext {
+    font-style: italic;
+    padding-left: 15px;
+    margin-top: 8px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+    font-size: 12px;
+}
+
 .datingtext {
     padding-left: 15px;
     margin-top: 16px;
     padding-right: 15px;
     margin-bottom: 16px;
+}
+
+.lieslist {
+    margin-bottom: 15px;
 }
 
 .techtherapy {
@@ -480,6 +528,43 @@ h3 {
     margin-top: 16px;
     padding-right: 15px;
     margin-bottom: 16px;
+}
+
+.cartoon {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.cartoontitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.cartoonsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.cartoonpic {
+    width: 668px;
+}
+
+.cartoontext {
+    font-style: italic;
+    padding-left: 15px;
+    margin-top: 8px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+    font-size: 12px;
 }
 
 .fromthecrew {
@@ -542,7 +627,13 @@ h3 {
 }
 
 .businesspic {
-    width: 668px;
+    width: 672px;
+    padding-right: 3px;
+}
+
+.businesspicsubtext {
+    font-size: 12px;
+    padding-left: 15px;
 }
 
 .businesstext {
