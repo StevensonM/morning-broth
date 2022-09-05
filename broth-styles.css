@@ -344,6 +344,42 @@ h3 {
     text-align: center;
 }
 
+.pelosi {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.pelosititle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.pelosisubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.pelosipic {
+    max-width: 670px;
+}
+
+.pelositext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
+
 .srpromo {
     border: 1px solid #e2e8f0;
     max-width: 670px;
@@ -438,6 +474,15 @@ h3 {
 
 .worldpic {
     width: 668px;
+}
+
+.worldpictext {
+    font-style: italic;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+    font-size: 12px;
+    margin-top: 8px;
 }
 
 .worldtext {
@@ -634,6 +679,7 @@ h3 {
 .businesspicsubtext {
     font-size: 12px;
     padding-left: 15px;
+    margin-top: 8px;
 }
 
 .businesstext {
