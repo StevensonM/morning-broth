@@ -56,6 +56,10 @@ body {
     margin-left: 15px;
 }
 
+.brothlogo {
+    width: 450px;
+}
+
 .together {
     margin-bottom: 40px;
     margin-top: 30px;
@@ -575,6 +579,41 @@ h3 {
     margin-bottom: 16px;
 }
 
+.credential {
+    border: 1px solid #e2e8f0;
+    max-width: 670px;
+    height: auto;
+    margin: auto;
+    margin-top: 8px;
+    border-radius: 15px;
+}
+
+.credentialtitle {
+    color: #1c7ff2;
+    text-transform: uppercase;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    padding: 15px 15px;
+    padding-bottom: 3px;
+}
+
+.credentialsubtitle {
+    padding: 0px 15px;
+    font-size: 1.5em;
+    margin-bottom: 8px;
+}
+
+.credentialpic {
+    width: 668px;
+}
+
+.credentialtext {
+    padding-left: 15px;
+    margin-top: 16px;
+    padding-right: 15px;
+    margin-bottom: 16px;
+}
+
 .cartoon {
     border: 1px solid #e2e8f0;
     max-width: 670px;
@@ -714,6 +753,10 @@ h3 {
     margin-bottom: 16px;
 }
 
+.simmeringsubtext {
+    margin-bottom: 15px;
+}
+
 .bottomblue {
     background-color: #1c7ff2;
     width: 670px;
@@ -750,4 +793,17 @@ h3 {
     padding-top: 15px;
     margin-bottom: 16px;
     text-align: center;
+}
+
+.bottom1 {
+    font-size: 12px;
+}
+
+.bottom2 {
+    font-size: 10px;
+    margin-bottom: 4px;
+}
+
+.bottom3 {
+    font-size: 10px;
 }
